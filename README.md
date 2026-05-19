@@ -1,4 +1,5 @@
 # OddLobster 🦞
+*Always building, always exploring* ✈️
 
 Infrastructure & DevOps engineer from Austria. 
 
@@ -50,8 +51,6 @@ I like building things I find useful or fun, sometimes both, and sometimes they 
 ![MongoDB](https://img.shields.io/badge/MongoDB-46A248?style=flat&logo=mongodb&logoColor=white)
 
 
-
-Always building, always exploring ✈️
 
 ## GitHub Activity
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=OddLobster&theme=tokyonight&hide_border=true)](https://github.com/OddLobster)
