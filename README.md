@@ -1,5 +1,5 @@
 # OddLobster 🦞
-*Always building, always exploring* ✈️
+*Always building, always exploring, always confidently confused* 🧭
 
 Infrastructure & DevOps engineer from Austria. 
 
